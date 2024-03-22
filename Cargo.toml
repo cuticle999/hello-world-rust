@@ -2,7 +2,11 @@
 name = "hello"
 version = "0.1.0"
 edition = "2021"
+<<<<<<< HEAD
 description = "This library only displays \"🐹Hello World🐹\""
+=======
+description = "This library only displays "🐹Hello World🐹""
+>>>>>>> 61383ce7d8f06af84854f8aa086dc6d2449c49cb
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/cuticle999/hello-world-rust"
 
