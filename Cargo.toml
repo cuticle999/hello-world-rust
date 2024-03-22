@@ -1,5 +1,5 @@
 [package]
-name = "hello"
+name = "hellow"
 version = "0.1.0"
 edition = "2021"
 description = "This library only displays \"🐹Hello World🐹\""
