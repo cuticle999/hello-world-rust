@@ -2,11 +2,7 @@
 name = "hello"
 version = "0.1.0"
 edition = "2021"
-description = "extern crate hello;
-
-fn main() {
-    hello::hello();
-}"
+description = "This library only displays "🐹Hello World🐹""
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/cuticle999/hello-world-rust"
 
