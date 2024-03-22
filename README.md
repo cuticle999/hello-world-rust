@@ -14,6 +14,7 @@ fn main() {
 }
 ```
 
-
+```Cargo.toml
 [dependencies]
 hello = { path = "" }
+```
